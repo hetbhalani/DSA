@@ -24,7 +24,6 @@ public class ReverseList {
         }
 
         l1.head = prev;
-
         l1.printData();
     }    
 }
